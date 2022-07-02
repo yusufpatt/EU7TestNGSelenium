@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class ContactsPage extends BasePage{
 
-    //since we are extending BasePage we do not need explicit constructor for this class
+    //since we are extending BasePage we do not need explicit constructor for this c   lass
 
 //    @FindBy(xpath = "//td[contains(text(),'mbrackstone9@example.com')][@data-column-label='Email']")
 //    public WebElement email;
